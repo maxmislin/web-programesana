@@ -1,0 +1,26 @@
+.RoomsPage {
+    max-width: 1024px;
+    margin: 20px auto;
+
+    &-RoomsList {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 16px;
+    }
+
+    &-RoomsContainer {
+        padding: 8px;
+        color: black;
+
+        &:hover {
+            text-decoration: none;
+            color: black;
+            background-color: #F4F4F4;
+        }
+    }
+
+    &-RoomsName {
+        font-size: 16px;
+        font-weight: 700;
+    }
+}

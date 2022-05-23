@@ -1,0 +1,21 @@
+{
+    "presets": ["@babel/preset-react"],
+    "plugins": [
+        [
+            "module-resolver",
+            {
+                "root": ["./src"],
+                "alias": {
+                    "Route": "./src/route",
+                    "Component": "./src/component",
+                    "Style": "./src/style",
+                    "Assets": "./src/assets",
+                    "Query": "./src/query",
+                    "Store": "./src/store",
+                    "Type": "./src/type",
+                    "Util": "./src/util"
+                }
+            }
+        ]
+    ]
+}

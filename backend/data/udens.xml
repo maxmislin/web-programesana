@@ -1,0 +1,2430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <columns>
+    <Date index="1">Date</Date>
+    <Time index="2">Time</Time>
+    <Value index="3">Value</Value>
+  </columns>
+  <records>
+    <record index="1">
+      <Date>1/17/2020</Date>
+      <Time>8:01:14</Time>
+      <Value>66277</Value>
+    </record>
+    <record index="2">
+      <Date>1/17/2020</Date>
+      <Time>7:15:25</Time>
+      <Value>66256</Value>
+    </record>
+    <record index="3">
+      <Date>1/17/2020</Date>
+      <Time>6:01:19</Time>
+      <Value>66253</Value>
+    </record>
+    <record index="4">
+      <Date>1/17/2020</Date>
+      <Time>5:01:21</Time>
+      <Value>66231</Value>
+    </record>
+    <record index="5">
+      <Date>1/17/2020</Date>
+      <Time>4:01:23</Time>
+      <Value>66218</Value>
+    </record>
+    <record index="6">
+      <Date>1/17/2020</Date>
+      <Time>1:44:46</Time>
+      <Value>66215</Value>
+    </record>
+    <record index="7">
+      <Date>1/17/2020</Date>
+      <Time>0:44:48</Time>
+      <Value>66201</Value>
+    </record>
+    <record index="8">
+      <Date>1/16/2020</Date>
+      <Time>23:44:50</Time>
+      <Value>66185</Value>
+    </record>
+    <record index="9">
+      <Date>1/16/2020</Date>
+      <Time>22:44:52</Time>
+      <Value>66154</Value>
+    </record>
+    <record index="10">
+      <Date>1/16/2020</Date>
+      <Time>21:44:54</Time>
+      <Value>66138</Value>
+    </record>
+    <record index="11">
+      <Date>1/16/2020</Date>
+      <Time>20:44:56</Time>
+      <Value>66121</Value>
+    </record>
+    <record index="12">
+      <Date>1/16/2020</Date>
+      <Time>19:44:59</Time>
+      <Value>66112</Value>
+    </record>
+    <record index="13">
+      <Date>1/16/2020</Date>
+      <Time>18:45:01</Time>
+      <Value>66097</Value>
+    </record>
+    <record index="14">
+      <Date>1/16/2020</Date>
+      <Time>17:47:15</Time>
+      <Value>66064</Value>
+    </record>
+    <record index="15">
+      <Date>1/16/2020</Date>
+      <Time>17:45:03</Time>
+      <Value>66064</Value>
+    </record>
+    <record index="16">
+      <Date>1/16/2020</Date>
+      <Time>16:45:05</Time>
+      <Value>66009</Value>
+    </record>
+    <record index="17">
+      <Date>1/16/2020</Date>
+      <Time>15:47:19</Time>
+      <Value>65968</Value>
+    </record>
+    <record index="18">
+      <Date>1/16/2020</Date>
+      <Time>14:45:10</Time>
+      <Value>65940</Value>
+    </record>
+    <record index="19">
+      <Date>1/16/2020</Date>
+      <Time>13:45:12</Time>
+      <Value>65917</Value>
+    </record>
+    <record index="20">
+      <Date>1/16/2020</Date>
+      <Time>12:45:14</Time>
+      <Value>65882</Value>
+    </record>
+    <record index="21">
+      <Date>1/16/2020</Date>
+      <Time>11:45:16</Time>
+      <Value>65844</Value>
+    </record>
+    <record index="22">
+      <Date>1/16/2020</Date>
+      <Time>10:45:18</Time>
+      <Value>65826</Value>
+    </record>
+    <record index="23">
+      <Date>1/16/2020</Date>
+      <Time>9:45:20</Time>
+      <Value>65785</Value>
+    </record>
+    <record index="24">
+      <Date>1/16/2020</Date>
+      <Time>8:47:34</Time>
+      <Value>65774</Value>
+    </record>
+    <record index="25">
+      <Date>1/16/2020</Date>
+      <Time>8:45:23</Time>
+      <Value>65774</Value>
+    </record>
+    <record index="26">
+      <Date>1/16/2020</Date>
+      <Time>7:45:25</Time>
+      <Value>65752</Value>
+    </record>
+    <record index="27">
+      <Date>1/16/2020</Date>
+      <Time>6:45:27</Time>
+      <Value>65718</Value>
+    </record>
+    <record index="28">
+      <Date>1/16/2020</Date>
+      <Time>4:45:23</Time>
+      <Value>65715</Value>
+    </record>
+    <record index="29">
+      <Date>1/16/2020</Date>
+      <Time>3:45:25</Time>
+      <Value>65707</Value>
+    </record>
+    <record index="30">
+      <Date>1/16/2020</Date>
+      <Time>2:45:27</Time>
+      <Value>65694</Value>
+    </record>
+    <record index="31">
+      <Date>1/15/2020</Date>
+      <Time>22:29:42</Time>
+      <Value>65691</Value>
+    </record>
+    <record index="32">
+      <Date>1/15/2020</Date>
+      <Time>21:29:44</Time>
+      <Value>65683</Value>
+    </record>
+    <record index="33">
+      <Date>1/15/2020</Date>
+      <Time>20:30:25</Time>
+      <Value>65668</Value>
+    </record>
+    <record index="34">
+      <Date>1/15/2020</Date>
+      <Time>19:32:00</Time>
+      <Value>65665</Value>
+    </record>
+    <record index="35">
+      <Date>1/15/2020</Date>
+      <Time>19:29:48</Time>
+      <Value>65665</Value>
+    </record>
+    <record index="36">
+      <Date>1/15/2020</Date>
+      <Time>18:29:50</Time>
+      <Value>65627</Value>
+    </record>
+    <record index="37">
+      <Date>1/15/2020</Date>
+      <Time>17:29:53</Time>
+      <Value>65624</Value>
+    </record>
+    <record index="38">
+      <Date>1/15/2020</Date>
+      <Time>16:29:55</Time>
+      <Value>65575</Value>
+    </record>
+    <record index="39">
+      <Date>1/15/2020</Date>
+      <Time>15:29:57</Time>
+      <Value>65544</Value>
+    </record>
+    <record index="40">
+      <Date>1/15/2020</Date>
+      <Time>14:29:59</Time>
+      <Value>65517</Value>
+    </record>
+    <record index="41">
+      <Date>1/15/2020</Date>
+      <Time>13:32:13</Time>
+      <Value>65501</Value>
+    </record>
+    <record index="42">
+      <Date>1/15/2020</Date>
+      <Time>13:30:01</Time>
+      <Value>65501</Value>
+    </record>
+    <record index="43">
+      <Date>1/15/2020</Date>
+      <Time>12:32:15</Time>
+      <Value>65474</Value>
+    </record>
+    <record index="44">
+      <Date>1/15/2020</Date>
+      <Time>12:30:04</Time>
+      <Value>65474</Value>
+    </record>
+    <record index="45">
+      <Date>1/15/2020</Date>
+      <Time>11:32:17</Time>
+      <Value>65414</Value>
+    </record>
+    <record index="46">
+      <Date>1/15/2020</Date>
+      <Time>11:30:06</Time>
+      <Value>65414</Value>
+    </record>
+    <record index="47">
+      <Date>1/15/2020</Date>
+      <Time>10:30:08</Time>
+      <Value>65399</Value>
+    </record>
+    <record index="48">
+      <Date>1/15/2020</Date>
+      <Time>9:30:10</Time>
+      <Value>65377</Value>
+    </record>
+    <record index="49">
+      <Date>1/15/2020</Date>
+      <Time>8:32:24</Time>
+      <Value>65362</Value>
+    </record>
+    <record index="50">
+      <Date>1/15/2020</Date>
+      <Time>8:30:12</Time>
+      <Value>65362</Value>
+    </record>
+    <record index="51">
+      <Date>1/15/2020</Date>
+      <Time>7:30:14</Time>
+      <Value>65338</Value>
+    </record>
+    <record index="52">
+      <Date>1/15/2020</Date>
+      <Time>6:30:16</Time>
+      <Value>65323</Value>
+    </record>
+    <record index="53">
+      <Date>1/15/2020</Date>
+      <Time>5:13:55</Time>
+      <Value>65320</Value>
+    </record>
+    <record index="54">
+      <Date>1/15/2020</Date>
+      <Time>3:58:11</Time>
+      <Value>65317</Value>
+    </record>
+    <record index="55">
+      <Date>1/15/2020</Date>
+      <Time>2:58:13</Time>
+      <Value>65302</Value>
+    </record>
+    <record index="56">
+      <Date>1/15/2020</Date>
+      <Time>0:56:21</Time>
+      <Value>65299</Value>
+    </record>
+    <record index="57">
+      <Date>1/14/2020</Date>
+      <Time>23:56:23</Time>
+      <Value>65296</Value>
+    </record>
+    <record index="58">
+      <Date>1/14/2020</Date>
+      <Time>22:34:43</Time>
+      <Value>65293</Value>
+    </record>
+    <record index="59">
+      <Date>1/14/2020</Date>
+      <Time>21:36:57</Time>
+      <Value>65283</Value>
+    </record>
+    <record index="60">
+      <Date>1/14/2020</Date>
+      <Time>21:34:45</Time>
+      <Value>65283</Value>
+    </record>
+    <record index="61">
+      <Date>1/14/2020</Date>
+      <Time>20:36:59</Time>
+      <Value>65274</Value>
+    </record>
+    <record index="62">
+      <Date>1/14/2020</Date>
+      <Time>20:34:47</Time>
+      <Value>65274</Value>
+    </record>
+    <record index="63">
+      <Date>1/14/2020</Date>
+      <Time>19:34:49</Time>
+      <Value>65264</Value>
+    </record>
+    <record index="64">
+      <Date>1/14/2020</Date>
+      <Time>18:34:51</Time>
+      <Value>65251</Value>
+    </record>
+    <record index="65">
+      <Date>1/14/2020</Date>
+      <Time>17:37:05</Time>
+      <Value>65245</Value>
+    </record>
+    <record index="66">
+      <Date>1/14/2020</Date>
+      <Time>17:34:53</Time>
+      <Value>65245</Value>
+    </record>
+    <record index="67">
+      <Date>1/14/2020</Date>
+      <Time>16:37:08</Time>
+      <Value>65209</Value>
+    </record>
+    <record index="68">
+      <Date>1/14/2020</Date>
+      <Time>16:34:56</Time>
+      <Value>65209</Value>
+    </record>
+    <record index="69">
+      <Date>1/14/2020</Date>
+      <Time>15:37:10</Time>
+      <Value>65191</Value>
+    </record>
+    <record index="70">
+      <Date>1/14/2020</Date>
+      <Time>15:34:58</Time>
+      <Value>65191</Value>
+    </record>
+    <record index="71">
+      <Date>1/14/2020</Date>
+      <Time>14:37:12</Time>
+      <Value>65160</Value>
+    </record>
+    <record index="72">
+      <Date>1/14/2020</Date>
+      <Time>13:37:14</Time>
+      <Value>65142</Value>
+    </record>
+    <record index="73">
+      <Date>1/14/2020</Date>
+      <Time>12:35:05</Time>
+      <Value>65099</Value>
+    </record>
+    <record index="74">
+      <Date>1/14/2020</Date>
+      <Time>11:35:07</Time>
+      <Value>65062</Value>
+    </record>
+    <record index="75">
+      <Date>1/14/2020</Date>
+      <Time>10:35:09</Time>
+      <Value>65041</Value>
+    </record>
+    <record index="76">
+      <Date>1/14/2020</Date>
+      <Time>9:37:23</Time>
+      <Value>65012</Value>
+    </record>
+    <record index="77">
+      <Date>1/14/2020</Date>
+      <Time>9:35:11</Time>
+      <Value>65012</Value>
+    </record>
+    <record index="78">
+      <Date>1/14/2020</Date>
+      <Time>8:37:25</Time>
+      <Value>65001</Value>
+    </record>
+    <record index="79">
+      <Date>1/14/2020</Date>
+      <Time>8:35:13</Time>
+      <Value>65001</Value>
+    </record>
+    <record index="80">
+      <Date>1/14/2020</Date>
+      <Time>7:35:15</Time>
+      <Value>64975</Value>
+    </record>
+    <record index="81">
+      <Date>1/14/2020</Date>
+      <Time>6:35:17</Time>
+      <Value>64967</Value>
+    </record>
+    <record index="82">
+      <Date>1/14/2020</Date>
+      <Time>5:37:32</Time>
+      <Value>64957</Value>
+    </record>
+    <record index="83">
+      <Date>1/14/2020</Date>
+      <Time>5:35:20</Time>
+      <Value>64957</Value>
+    </record>
+    <record index="84">
+      <Date>1/14/2020</Date>
+      <Time>4:35:22</Time>
+      <Value>64951</Value>
+    </record>
+    <record index="85">
+      <Date>1/14/2020</Date>
+      <Time>3:35:24</Time>
+      <Value>64934</Value>
+    </record>
+    <record index="86">
+      <Date>1/14/2020</Date>
+      <Time>2:35:26</Time>
+      <Value>64931</Value>
+    </record>
+    <record index="87">
+      <Date>1/14/2020</Date>
+      <Time>1:21:55</Time>
+      <Value>64928</Value>
+    </record>
+    <record index="88">
+      <Date>1/14/2020</Date>
+      <Time>1:19:43</Time>
+      <Value>64928</Value>
+    </record>
+    <record index="89">
+      <Date>1/14/2020</Date>
+      <Time>0:19:46</Time>
+      <Value>64914</Value>
+    </record>
+    <record index="90">
+      <Date>1/13/2020</Date>
+      <Time>23:19:48</Time>
+      <Value>64906</Value>
+    </record>
+    <record index="91">
+      <Date>1/13/2020</Date>
+      <Time>21:05:06</Time>
+      <Value>64903</Value>
+    </record>
+    <record index="92">
+      <Date>1/13/2020</Date>
+      <Time>21:02:54</Time>
+      <Value>64903</Value>
+    </record>
+    <record index="93">
+      <Date>1/13/2020</Date>
+      <Time>20:02:56</Time>
+      <Value>64886</Value>
+    </record>
+    <record index="94">
+      <Date>1/13/2020</Date>
+      <Time>19:02:59</Time>
+      <Value>64868</Value>
+    </record>
+    <record index="95">
+      <Date>1/13/2020</Date>
+      <Time>18:05:12</Time>
+      <Value>64832</Value>
+    </record>
+    <record index="96">
+      <Date>1/13/2020</Date>
+      <Time>18:03:01</Time>
+      <Value>64832</Value>
+    </record>
+    <record index="97">
+      <Date>1/13/2020</Date>
+      <Time>17:03:03</Time>
+      <Value>64814</Value>
+    </record>
+    <record index="98">
+      <Date>1/13/2020</Date>
+      <Time>16:05:17</Time>
+      <Value>64781</Value>
+    </record>
+    <record index="99">
+      <Date>1/13/2020</Date>
+      <Time>16:03:05</Time>
+      <Value>64781</Value>
+    </record>
+    <record index="100">
+      <Date>1/13/2020</Date>
+      <Time>15:05:19</Time>
+      <Value>64743</Value>
+    </record>
+    <record index="101">
+      <Date>1/13/2020</Date>
+      <Time>15:03:07</Time>
+      <Value>64743</Value>
+    </record>
+    <record index="102">
+      <Date>1/13/2020</Date>
+      <Time>14:05:21</Time>
+      <Value>64734</Value>
+    </record>
+    <record index="103">
+      <Date>1/13/2020</Date>
+      <Time>14:03:10</Time>
+      <Value>64734</Value>
+    </record>
+    <record index="104">
+      <Date>1/13/2020</Date>
+      <Time>13:05:24</Time>
+      <Value>64717</Value>
+    </record>
+    <record index="105">
+      <Date>1/13/2020</Date>
+      <Time>13:03:12</Time>
+      <Value>64717</Value>
+    </record>
+    <record index="106">
+      <Date>1/13/2020</Date>
+      <Time>12:05:26</Time>
+      <Value>64678</Value>
+    </record>
+    <record index="107">
+      <Date>1/13/2020</Date>
+      <Time>12:03:14</Time>
+      <Value>64678</Value>
+    </record>
+    <record index="108">
+      <Date>1/13/2020</Date>
+      <Time>11:03:16</Time>
+      <Value>64642</Value>
+    </record>
+    <record index="109">
+      <Date>1/13/2020</Date>
+      <Time>10:03:18</Time>
+      <Value>64607</Value>
+    </record>
+    <record index="110">
+      <Date>1/13/2020</Date>
+      <Time>9:05:32</Time>
+      <Value>64568</Value>
+    </record>
+    <record index="111">
+      <Date>1/13/2020</Date>
+      <Time>9:03:20</Time>
+      <Value>64568</Value>
+    </record>
+    <record index="112">
+      <Date>1/13/2020</Date>
+      <Time>8:05:35</Time>
+      <Value>64536</Value>
+    </record>
+    <record index="113">
+      <Date>1/13/2020</Date>
+      <Time>8:03:23</Time>
+      <Value>64536</Value>
+    </record>
+    <record index="114">
+      <Date>1/13/2020</Date>
+      <Time>7:03:25</Time>
+      <Value>64509</Value>
+    </record>
+    <record index="115">
+      <Date>1/13/2020</Date>
+      <Time>6:03:27</Time>
+      <Value>64490</Value>
+    </record>
+    <record index="116">
+      <Date>1/13/2020</Date>
+      <Time>5:03:29</Time>
+      <Value>64483</Value>
+    </record>
+    <record index="117">
+      <Date>1/13/2020</Date>
+      <Time>4:03:31</Time>
+      <Value>64479</Value>
+    </record>
+    <record index="118">
+      <Date>1/13/2020</Date>
+      <Time>1:54:01</Time>
+      <Value>64476</Value>
+    </record>
+    <record index="119">
+      <Date>1/13/2020</Date>
+      <Time>0:54:03</Time>
+      <Value>64462</Value>
+    </record>
+    <record index="120">
+      <Date>1/12/2020</Date>
+      <Time>23:56:17</Time>
+      <Value>64455</Value>
+    </record>
+    <record index="121">
+      <Date>1/12/2020</Date>
+      <Time>23:54:05</Time>
+      <Value>64455</Value>
+    </record>
+    <record index="122">
+      <Date>1/12/2020</Date>
+      <Time>22:54:07</Time>
+      <Value>64446</Value>
+    </record>
+    <record index="123">
+      <Date>1/12/2020</Date>
+      <Time>21:12:42</Time>
+      <Value>64443</Value>
+    </record>
+    <record index="124">
+      <Date>1/12/2020</Date>
+      <Time>21:10:30</Time>
+      <Value>64443</Value>
+    </record>
+    <record index="125">
+      <Date>1/12/2020</Date>
+      <Time>20:10:32</Time>
+      <Value>64419</Value>
+    </record>
+    <record index="126">
+      <Date>1/12/2020</Date>
+      <Time>19:10:35</Time>
+      <Value>64404</Value>
+    </record>
+    <record index="127">
+      <Date>1/12/2020</Date>
+      <Time>18:12:49</Time>
+      <Value>64364</Value>
+    </record>
+    <record index="128">
+      <Date>1/12/2020</Date>
+      <Time>18:10:37</Time>
+      <Value>64364</Value>
+    </record>
+    <record index="129">
+      <Date>1/12/2020</Date>
+      <Time>17:10:39</Time>
+      <Value>64349</Value>
+    </record>
+    <record index="130">
+      <Date>1/12/2020</Date>
+      <Time>15:55:13</Time>
+      <Value>64346</Value>
+    </record>
+    <record index="131">
+      <Date>1/12/2020</Date>
+      <Time>15:53:02</Time>
+      <Value>64346</Value>
+    </record>
+    <record index="132">
+      <Date>1/12/2020</Date>
+      <Time>14:53:04</Time>
+      <Value>64333</Value>
+    </record>
+    <record index="133">
+      <Date>1/12/2020</Date>
+      <Time>13:55:18</Time>
+      <Value>64313</Value>
+    </record>
+    <record index="134">
+      <Date>1/12/2020</Date>
+      <Time>13:53:06</Time>
+      <Value>64313</Value>
+    </record>
+    <record index="135">
+      <Date>1/12/2020</Date>
+      <Time>12:53:08</Time>
+      <Value>64303</Value>
+    </record>
+    <record index="136">
+      <Date>1/12/2020</Date>
+      <Time>11:55:22</Time>
+      <Value>64264</Value>
+    </record>
+    <record index="137">
+      <Date>1/12/2020</Date>
+      <Time>11:53:10</Time>
+      <Value>64264</Value>
+    </record>
+    <record index="138">
+      <Date>1/12/2020</Date>
+      <Time>10:53:12</Time>
+      <Value>64244</Value>
+    </record>
+    <record index="139">
+      <Date>1/12/2020</Date>
+      <Time>9:55:27</Time>
+      <Value>64237</Value>
+    </record>
+    <record index="140">
+      <Date>1/12/2020</Date>
+      <Time>9:53:15</Time>
+      <Value>64237</Value>
+    </record>
+    <record index="141">
+      <Date>1/12/2020</Date>
+      <Time>8:55:38</Time>
+      <Value>64225</Value>
+    </record>
+    <record index="142">
+      <Date>1/12/2020</Date>
+      <Time>7:53:19</Time>
+      <Value>64222</Value>
+    </record>
+    <record index="143">
+      <Date>1/12/2020</Date>
+      <Time>6:53:21</Time>
+      <Value>64202</Value>
+    </record>
+    <record index="144">
+      <Date>1/12/2020</Date>
+      <Time>4:44:22</Time>
+      <Value>64199</Value>
+    </record>
+    <record index="145">
+      <Date>1/12/2020</Date>
+      <Time>4:42:10</Time>
+      <Value>64199</Value>
+    </record>
+    <record index="146">
+      <Date>1/12/2020</Date>
+      <Time>3:42:13</Time>
+      <Value>64182</Value>
+    </record>
+    <record index="147">
+      <Date>1/12/2020</Date>
+      <Time>2:42:15</Time>
+      <Value>64172</Value>
+    </record>
+    <record index="148">
+      <Date>1/12/2020</Date>
+      <Time>1:43:26</Time>
+      <Value>64169</Value>
+    </record>
+    <record index="149">
+      <Date>1/12/2020</Date>
+      <Time>0:42:19</Time>
+      <Value>64166</Value>
+    </record>
+    <record index="150">
+      <Date>1/11/2020</Date>
+      <Time>23:42:21</Time>
+      <Value>64133</Value>
+    </record>
+    <record index="151">
+      <Date>1/11/2020</Date>
+      <Time>22:42:23</Time>
+      <Value>64127</Value>
+    </record>
+    <record index="152">
+      <Date>1/11/2020</Date>
+      <Time>21:44:38</Time>
+      <Value>64113</Value>
+    </record>
+    <record index="153">
+      <Date>1/11/2020</Date>
+      <Time>20:44:40</Time>
+      <Value>64078</Value>
+    </record>
+    <record index="154">
+      <Date>1/11/2020</Date>
+      <Time>19:44:42</Time>
+      <Value>64072</Value>
+    </record>
+    <record index="155">
+      <Date>1/11/2020</Date>
+      <Time>19:42:30</Time>
+      <Value>64072</Value>
+    </record>
+    <record index="156">
+      <Date>1/11/2020</Date>
+      <Time>18:42:32</Time>
+      <Value>64046</Value>
+    </record>
+    <record index="157">
+      <Date>1/11/2020</Date>
+      <Time>17:44:46</Time>
+      <Value>64032</Value>
+    </record>
+    <record index="158">
+      <Date>1/11/2020</Date>
+      <Time>17:42:34</Time>
+      <Value>64032</Value>
+    </record>
+    <record index="159">
+      <Date>1/11/2020</Date>
+      <Time>16:42:36</Time>
+      <Value>64021</Value>
+    </record>
+    <record index="160">
+      <Date>1/11/2020</Date>
+      <Time>15:44:51</Time>
+      <Value>64012</Value>
+    </record>
+    <record index="161">
+      <Date>1/11/2020</Date>
+      <Time>15:42:39</Time>
+      <Value>64012</Value>
+    </record>
+    <record index="162">
+      <Date>1/11/2020</Date>
+      <Time>14:42:41</Time>
+      <Value>64001</Value>
+    </record>
+    <record index="163">
+      <Date>1/11/2020</Date>
+      <Time>13:42:43</Time>
+      <Value>63988</Value>
+    </record>
+    <record index="164">
+      <Date>1/11/2020</Date>
+      <Time>12:42:45</Time>
+      <Value>63983</Value>
+    </record>
+    <record index="165">
+      <Date>1/11/2020</Date>
+      <Time>11:42:48</Time>
+      <Value>63975</Value>
+    </record>
+    <record index="166">
+      <Date>1/11/2020</Date>
+      <Time>10:42:50</Time>
+      <Value>63962</Value>
+    </record>
+    <record index="167">
+      <Date>1/11/2020</Date>
+      <Time>9:42:52</Time>
+      <Value>63946</Value>
+    </record>
+    <record index="168">
+      <Date>1/11/2020</Date>
+      <Time>8:42:54</Time>
+      <Value>63940</Value>
+    </record>
+    <record index="169">
+      <Date>1/11/2020</Date>
+      <Time>7:45:08</Time>
+      <Value>63936</Value>
+    </record>
+    <record index="170">
+      <Date>1/11/2020</Date>
+      <Time>7:42:56</Time>
+      <Value>63936</Value>
+    </record>
+    <record index="171">
+      <Date>1/11/2020</Date>
+      <Time>6:45:10</Time>
+      <Value>63901</Value>
+    </record>
+    <record index="172">
+      <Date>1/11/2020</Date>
+      <Time>6:42:58</Time>
+      <Value>63901</Value>
+    </record>
+    <record index="173">
+      <Date>1/11/2020</Date>
+      <Time>5:45:12</Time>
+      <Value>63890</Value>
+    </record>
+    <record index="174">
+      <Date>1/11/2020</Date>
+      <Time>5:43:01</Time>
+      <Value>63890</Value>
+    </record>
+    <record index="175">
+      <Date>1/11/2020</Date>
+      <Time>4:45:15</Time>
+      <Value>63883</Value>
+    </record>
+    <record index="176">
+      <Date>1/11/2020</Date>
+      <Time>4:43:03</Time>
+      <Value>63883</Value>
+    </record>
+    <record index="177">
+      <Date>1/11/2020</Date>
+      <Time>3:43:05</Time>
+      <Value>63874</Value>
+    </record>
+    <record index="178">
+      <Date>1/11/2020</Date>
+      <Time>2:43:07</Time>
+      <Value>63852</Value>
+    </record>
+    <record index="179">
+      <Date>1/11/2020</Date>
+      <Time>1:45:21</Time>
+      <Value>63848</Value>
+    </record>
+    <record index="180">
+      <Date>1/11/2020</Date>
+      <Time>1:43:09</Time>
+      <Value>63848</Value>
+    </record>
+    <record index="181">
+      <Date>1/11/2020</Date>
+      <Time>0:43:12</Time>
+      <Value>63842</Value>
+    </record>
+    <record index="182">
+      <Date>1/10/2020</Date>
+      <Time>23:45:26</Time>
+      <Value>63832</Value>
+    </record>
+    <record index="183">
+      <Date>1/10/2020</Date>
+      <Time>23:43:14</Time>
+      <Value>63832</Value>
+    </record>
+    <record index="184">
+      <Date>1/10/2020</Date>
+      <Time>22:45:28</Time>
+      <Value>63816</Value>
+    </record>
+    <record index="185">
+      <Date>1/10/2020</Date>
+      <Time>21:43:18</Time>
+      <Value>63810</Value>
+    </record>
+    <record index="186">
+      <Date>1/10/2020</Date>
+      <Time>20:43:20</Time>
+      <Value>63800</Value>
+    </record>
+    <record index="187">
+      <Date>1/10/2020</Date>
+      <Time>19:43:22</Time>
+      <Value>63784</Value>
+    </record>
+    <record index="188">
+      <Date>1/10/2020</Date>
+      <Time>18:24:12</Time>
+      <Value>63781</Value>
+    </record>
+    <record index="189">
+      <Date>1/10/2020</Date>
+      <Time>18:22:00</Time>
+      <Value>63781</Value>
+    </record>
+    <record index="190">
+      <Date>1/10/2020</Date>
+      <Time>17:24:14</Time>
+      <Value>63758</Value>
+    </record>
+    <record index="191">
+      <Date>1/10/2020</Date>
+      <Time>16:22:05</Time>
+      <Value>63744</Value>
+    </record>
+    <record index="192">
+      <Date>1/10/2020</Date>
+      <Time>15:22:07</Time>
+      <Value>63719</Value>
+    </record>
+    <record index="193">
+      <Date>1/10/2020</Date>
+      <Time>14:22:09</Time>
+      <Value>63694</Value>
+    </record>
+    <record index="194">
+      <Date>1/10/2020</Date>
+      <Time>13:22:11</Time>
+      <Value>63664</Value>
+    </record>
+    <record index="195">
+      <Date>1/10/2020</Date>
+      <Time>12:22:13</Time>
+      <Value>63654</Value>
+    </record>
+    <record index="196">
+      <Date>1/10/2020</Date>
+      <Time>11:22:16</Time>
+      <Value>63631</Value>
+    </record>
+    <record index="197">
+      <Date>1/10/2020</Date>
+      <Time>10:22:18</Time>
+      <Value>63607</Value>
+    </record>
+    <record index="198">
+      <Date>1/10/2020</Date>
+      <Time>9:24:32</Time>
+      <Value>63582</Value>
+    </record>
+    <record index="199">
+      <Date>1/10/2020</Date>
+      <Time>9:22:20</Time>
+      <Value>63582</Value>
+    </record>
+    <record index="200">
+      <Date>1/10/2020</Date>
+      <Time>8:24:34</Time>
+      <Value>63559</Value>
+    </record>
+    <record index="201">
+      <Date>1/10/2020</Date>
+      <Time>8:22:22</Time>
+      <Value>63559</Value>
+    </record>
+    <record index="202">
+      <Date>1/10/2020</Date>
+      <Time>7:24:36</Time>
+      <Value>63549</Value>
+    </record>
+    <record index="203">
+      <Date>1/10/2020</Date>
+      <Time>7:22:24</Time>
+      <Value>63549</Value>
+    </record>
+    <record index="204">
+      <Date>1/10/2020</Date>
+      <Time>5:22:29</Time>
+      <Value>63521</Value>
+    </record>
+    <record index="205">
+      <Date>1/10/2020</Date>
+      <Time>4:22:31</Time>
+      <Value>63515</Value>
+    </record>
+    <record index="206">
+      <Date>1/10/2020</Date>
+      <Time>3:22:33</Time>
+      <Value>63485</Value>
+    </record>
+    <record index="207">
+      <Date>1/10/2020</Date>
+      <Time>2:03:23</Time>
+      <Value>63482</Value>
+    </record>
+    <record index="208">
+      <Date>1/10/2020</Date>
+      <Time>2:01:11</Time>
+      <Value>63482</Value>
+    </record>
+    <record index="209">
+      <Date>1/10/2020</Date>
+      <Time>1:03:25</Time>
+      <Value>63473</Value>
+    </record>
+    <record index="210">
+      <Date>1/10/2020</Date>
+      <Time>1:01:13</Time>
+      <Value>63473</Value>
+    </record>
+    <record index="211">
+      <Date>1/10/2020</Date>
+      <Time>0:01:15</Time>
+      <Value>63468</Value>
+    </record>
+    <record index="212">
+      <Date>1/9/2020</Date>
+      <Time>23:01:18</Time>
+      <Value>63465</Value>
+    </record>
+    <record index="213">
+      <Date>1/9/2020</Date>
+      <Time>22:01:20</Time>
+      <Value>63455</Value>
+    </record>
+    <record index="214">
+      <Date>1/9/2020</Date>
+      <Time>21:01:22</Time>
+      <Value>63450</Value>
+    </record>
+    <record index="215">
+      <Date>1/9/2020</Date>
+      <Time>20:03:36</Time>
+      <Value>63441</Value>
+    </record>
+    <record index="216">
+      <Date>1/9/2020</Date>
+      <Time>20:01:24</Time>
+      <Value>63441</Value>
+    </record>
+    <record index="217">
+      <Date>1/9/2020</Date>
+      <Time>19:03:38</Time>
+      <Value>63418</Value>
+    </record>
+    <record index="218">
+      <Date>1/9/2020</Date>
+      <Time>19:01:26</Time>
+      <Value>63418</Value>
+    </record>
+    <record index="219">
+      <Date>1/9/2020</Date>
+      <Time>18:01:29</Time>
+      <Value>63408</Value>
+    </record>
+    <record index="220">
+      <Date>1/9/2020</Date>
+      <Time>17:01:31</Time>
+      <Value>63365</Value>
+    </record>
+    <record index="221">
+      <Date>1/9/2020</Date>
+      <Time>16:01:33</Time>
+      <Value>63338</Value>
+    </record>
+    <record index="222">
+      <Date>1/9/2020</Date>
+      <Time>15:03:47</Time>
+      <Value>63304</Value>
+    </record>
+    <record index="223">
+      <Date>1/9/2020</Date>
+      <Time>15:01:35</Time>
+      <Value>63304</Value>
+    </record>
+    <record index="224">
+      <Date>1/9/2020</Date>
+      <Time>14:03:49</Time>
+      <Value>63284</Value>
+    </record>
+    <record index="225">
+      <Date>1/9/2020</Date>
+      <Time>14:01:37</Time>
+      <Value>63284</Value>
+    </record>
+    <record index="226">
+      <Date>1/9/2020</Date>
+      <Time>13:03:51</Time>
+      <Value>63266</Value>
+    </record>
+    <record index="227">
+      <Date>1/9/2020</Date>
+      <Time>13:01:39</Time>
+      <Value>63266</Value>
+    </record>
+    <record index="228">
+      <Date>1/9/2020</Date>
+      <Time>12:01:42</Time>
+      <Value>63248</Value>
+    </record>
+    <record index="229">
+      <Date>1/9/2020</Date>
+      <Time>11:01:44</Time>
+      <Value>63216</Value>
+    </record>
+    <record index="230">
+      <Date>1/9/2020</Date>
+      <Time>10:03:58</Time>
+      <Value>63193</Value>
+    </record>
+    <record index="231">
+      <Date>1/9/2020</Date>
+      <Time>10:01:46</Time>
+      <Value>63193</Value>
+    </record>
+    <record index="232">
+      <Date>1/9/2020</Date>
+      <Time>9:04:00</Time>
+      <Value>63175</Value>
+    </record>
+    <record index="233">
+      <Date>1/9/2020</Date>
+      <Time>9:01:48</Time>
+      <Value>63175</Value>
+    </record>
+    <record index="234">
+      <Date>1/9/2020</Date>
+      <Time>8:04:02</Time>
+      <Value>63152</Value>
+    </record>
+    <record index="235">
+      <Date>1/9/2020</Date>
+      <Time>8:01:50</Time>
+      <Value>63152</Value>
+    </record>
+    <record index="236">
+      <Date>1/9/2020</Date>
+      <Time>7:04:04</Time>
+      <Value>63138</Value>
+    </record>
+    <record index="237">
+      <Date>1/9/2020</Date>
+      <Time>7:01:53</Time>
+      <Value>63138</Value>
+    </record>
+    <record index="238">
+      <Date>1/9/2020</Date>
+      <Time>6:04:07</Time>
+      <Value>63126</Value>
+    </record>
+    <record index="239">
+      <Date>1/9/2020</Date>
+      <Time>5:04:09</Time>
+      <Value>63119</Value>
+    </record>
+    <record index="240">
+      <Date>1/9/2020</Date>
+      <Time>4:04:11</Time>
+      <Value>63108</Value>
+    </record>
+    <record index="241">
+      <Date>1/9/2020</Date>
+      <Time>2:47:01</Time>
+      <Value>63105</Value>
+    </record>
+    <record index="242">
+      <Date>1/9/2020</Date>
+      <Time>1:47:03</Time>
+      <Value>63085</Value>
+    </record>
+    <record index="243">
+      <Date>1/9/2020</Date>
+      <Time>0:58:08</Time>
+      <Value>63082</Value>
+    </record>
+    <record index="244">
+      <Date>1/8/2020</Date>
+      <Time>23:49:20</Time>
+      <Value>63079</Value>
+    </record>
+    <record index="245">
+      <Date>1/8/2020</Date>
+      <Time>23:47:08</Time>
+      <Value>63079</Value>
+    </record>
+    <record index="246">
+      <Date>1/8/2020</Date>
+      <Time>22:47:10</Time>
+      <Value>63065</Value>
+    </record>
+    <record index="247">
+      <Date>1/8/2020</Date>
+      <Time>21:47:12</Time>
+      <Value>63056</Value>
+    </record>
+    <record index="248">
+      <Date>1/8/2020</Date>
+      <Time>20:47:14</Time>
+      <Value>63050</Value>
+    </record>
+    <record index="249">
+      <Date>1/8/2020</Date>
+      <Time>19:47:16</Time>
+      <Value>63019</Value>
+    </record>
+    <record index="250">
+      <Date>1/8/2020</Date>
+      <Time>18:24:53</Time>
+      <Value>63016</Value>
+    </record>
+    <record index="251">
+      <Date>1/8/2020</Date>
+      <Time>17:27:07</Time>
+      <Value>63006</Value>
+    </record>
+    <record index="252">
+      <Date>1/8/2020</Date>
+      <Time>17:24:55</Time>
+      <Value>63006</Value>
+    </record>
+    <record index="253">
+      <Date>1/8/2020</Date>
+      <Time>16:24:57</Time>
+      <Value>62978</Value>
+    </record>
+    <record index="254">
+      <Date>1/8/2020</Date>
+      <Time>15:27:11</Time>
+      <Value>62941</Value>
+    </record>
+    <record index="255">
+      <Date>1/8/2020</Date>
+      <Time>15:25:00</Time>
+      <Value>62941</Value>
+    </record>
+    <record index="256">
+      <Date>1/8/2020</Date>
+      <Time>14:27:14</Time>
+      <Value>62931</Value>
+    </record>
+    <record index="257">
+      <Date>1/8/2020</Date>
+      <Time>14:25:02</Time>
+      <Value>62931</Value>
+    </record>
+    <record index="258">
+      <Date>1/8/2020</Date>
+      <Time>13:25:04</Time>
+      <Value>62916</Value>
+    </record>
+    <record index="259">
+      <Date>1/8/2020</Date>
+      <Time>12:27:18</Time>
+      <Value>62887</Value>
+    </record>
+    <record index="260">
+      <Date>1/8/2020</Date>
+      <Time>12:25:06</Time>
+      <Value>62887</Value>
+    </record>
+    <record index="261">
+      <Date>1/8/2020</Date>
+      <Time>11:25:08</Time>
+      <Value>62846</Value>
+    </record>
+    <record index="262">
+      <Date>1/8/2020</Date>
+      <Time>10:25:10</Time>
+      <Value>62778</Value>
+    </record>
+    <record index="263">
+      <Date>1/8/2020</Date>
+      <Time>9:27:24</Time>
+      <Value>62709</Value>
+    </record>
+    <record index="264">
+      <Date>1/8/2020</Date>
+      <Time>9:25:13</Time>
+      <Value>62709</Value>
+    </record>
+    <record index="265">
+      <Date>1/8/2020</Date>
+      <Time>8:27:27</Time>
+      <Value>62704</Value>
+    </record>
+    <record index="266">
+      <Date>1/8/2020</Date>
+      <Time>8:25:15</Time>
+      <Value>62704</Value>
+    </record>
+    <record index="267">
+      <Date>1/8/2020</Date>
+      <Time>7:29:11</Time>
+      <Value>62681</Value>
+    </record>
+    <record index="268">
+      <Date>1/8/2020</Date>
+      <Time>6:25:19</Time>
+      <Value>62652</Value>
+    </record>
+    <record index="269">
+      <Date>1/8/2020</Date>
+      <Time>5:28:42</Time>
+      <Value>62649</Value>
+    </record>
+    <record index="270">
+      <Date>1/8/2020</Date>
+      <Time>4:25:23</Time>
+      <Value>62646</Value>
+    </record>
+    <record index="271">
+      <Date>1/8/2020</Date>
+      <Time>3:27:37</Time>
+      <Value>62627</Value>
+    </record>
+    <record index="272">
+      <Date>1/8/2020</Date>
+      <Time>3:25:26</Time>
+      <Value>62627</Value>
+    </record>
+    <record index="273">
+      <Date>1/8/2020</Date>
+      <Time>2:37:09</Time>
+      <Value>62614</Value>
+    </record>
+    <record index="274">
+      <Date>1/8/2020</Date>
+      <Time>1:27:42</Time>
+      <Value>62611</Value>
+    </record>
+    <record index="275">
+      <Date>1/8/2020</Date>
+      <Time>1:25:30</Time>
+      <Value>62611</Value>
+    </record>
+    <record index="276">
+      <Date>1/8/2020</Date>
+      <Time>0:25:32</Time>
+      <Value>62594</Value>
+    </record>
+    <record index="277">
+      <Date>1/7/2020</Date>
+      <Time>23:25:34</Time>
+      <Value>62568</Value>
+    </record>
+    <record index="278">
+      <Date>1/7/2020</Date>
+      <Time>21:57:20</Time>
+      <Value>62565</Value>
+    </record>
+    <record index="279">
+      <Date>1/7/2020</Date>
+      <Time>20:59:34</Time>
+      <Value>62546</Value>
+    </record>
+    <record index="280">
+      <Date>1/7/2020</Date>
+      <Time>20:57:22</Time>
+      <Value>62546</Value>
+    </record>
+    <record index="281">
+      <Date>1/7/2020</Date>
+      <Time>19:59:36</Time>
+      <Value>62536</Value>
+    </record>
+    <record index="282">
+      <Date>1/7/2020</Date>
+      <Time>19:57:24</Time>
+      <Value>62536</Value>
+    </record>
+    <record index="283">
+      <Date>1/7/2020</Date>
+      <Time>18:59:38</Time>
+      <Value>62479</Value>
+    </record>
+    <record index="284">
+      <Date>1/7/2020</Date>
+      <Time>18:57:26</Time>
+      <Value>62479</Value>
+    </record>
+    <record index="285">
+      <Date>1/7/2020</Date>
+      <Time>17:57:29</Time>
+      <Value>62459</Value>
+    </record>
+    <record index="286">
+      <Date>1/7/2020</Date>
+      <Time>16:57:31</Time>
+      <Value>62424</Value>
+    </record>
+    <record index="287">
+      <Date>1/7/2020</Date>
+      <Time>15:57:33</Time>
+      <Value>62407</Value>
+    </record>
+    <record index="288">
+      <Date>1/7/2020</Date>
+      <Time>14:57:35</Time>
+      <Value>62384</Value>
+    </record>
+    <record index="289">
+      <Date>1/7/2020</Date>
+      <Time>13:59:49</Time>
+      <Value>62332</Value>
+    </record>
+    <record index="290">
+      <Date>1/7/2020</Date>
+      <Time>13:57:37</Time>
+      <Value>62332</Value>
+    </record>
+    <record index="291">
+      <Date>1/7/2020</Date>
+      <Time>12:57:39</Time>
+      <Value>62326</Value>
+    </record>
+    <record index="292">
+      <Date>1/7/2020</Date>
+      <Time>11:57:42</Time>
+      <Value>62319</Value>
+    </record>
+    <record index="293">
+      <Date>1/7/2020</Date>
+      <Time>10:57:44</Time>
+      <Value>62289</Value>
+    </record>
+    <record index="294">
+      <Date>1/7/2020</Date>
+      <Time>9:57:46</Time>
+      <Value>62260</Value>
+    </record>
+    <record index="295">
+      <Date>1/7/2020</Date>
+      <Time>9:00:00</Time>
+      <Value>62239</Value>
+    </record>
+    <record index="296">
+      <Date>1/7/2020</Date>
+      <Time>8:57:48</Time>
+      <Value>62239</Value>
+    </record>
+    <record index="297">
+      <Date>1/7/2020</Date>
+      <Time>7:57:50</Time>
+      <Value>62226</Value>
+    </record>
+    <record index="298">
+      <Date>1/7/2020</Date>
+      <Time>6:57:53</Time>
+      <Value>62204</Value>
+    </record>
+    <record index="299">
+      <Date>1/7/2020</Date>
+      <Time>6:00:07</Time>
+      <Value>62190</Value>
+    </record>
+    <record index="300">
+      <Date>1/7/2020</Date>
+      <Time>5:57:55</Time>
+      <Value>62190</Value>
+    </record>
+    <record index="301">
+      <Date>1/7/2020</Date>
+      <Time>4:57:57</Time>
+      <Value>62183</Value>
+    </record>
+    <record index="302">
+      <Date>1/7/2020</Date>
+      <Time>3:57:59</Time>
+      <Value>62174</Value>
+    </record>
+    <record index="303">
+      <Date>1/7/2020</Date>
+      <Time>2:58:01</Time>
+      <Value>62161</Value>
+    </record>
+    <record index="304">
+      <Date>1/7/2020</Date>
+      <Time>1:29:46</Time>
+      <Value>62158</Value>
+    </record>
+    <record index="305">
+      <Date>1/7/2020</Date>
+      <Time>0:35:55</Time>
+      <Value>62139</Value>
+    </record>
+    <record index="306">
+      <Date>1/6/2020</Date>
+      <Time>23:32:02</Time>
+      <Value>62136</Value>
+    </record>
+    <record index="307">
+      <Date>1/6/2020</Date>
+      <Time>23:29:50</Time>
+      <Value>62136</Value>
+    </record>
+    <record index="308">
+      <Date>1/6/2020</Date>
+      <Time>22:32:04</Time>
+      <Value>62132</Value>
+    </record>
+    <record index="309">
+      <Date>1/6/2020</Date>
+      <Time>22:29:52</Time>
+      <Value>62132</Value>
+    </record>
+    <record index="310">
+      <Date>1/6/2020</Date>
+      <Time>21:29:55</Time>
+      <Value>62117</Value>
+    </record>
+    <record index="311">
+      <Date>1/6/2020</Date>
+      <Time>20:29:57</Time>
+      <Value>62099</Value>
+    </record>
+    <record index="312">
+      <Date>1/6/2020</Date>
+      <Time>19:29:59</Time>
+      <Value>62091</Value>
+    </record>
+    <record index="313">
+      <Date>1/6/2020</Date>
+      <Time>18:30:01</Time>
+      <Value>62062</Value>
+    </record>
+    <record index="314">
+      <Date>1/6/2020</Date>
+      <Time>17:30:03</Time>
+      <Value>62014</Value>
+    </record>
+    <record index="315">
+      <Date>1/6/2020</Date>
+      <Time>16:32:17</Time>
+      <Value>62003</Value>
+    </record>
+    <record index="316">
+      <Date>1/6/2020</Date>
+      <Time>16:30:06</Time>
+      <Value>62003</Value>
+    </record>
+    <record index="317">
+      <Date>1/6/2020</Date>
+      <Time>15:30:08</Time>
+      <Value>61980</Value>
+    </record>
+    <record index="318">
+      <Date>1/6/2020</Date>
+      <Time>14:30:10</Time>
+      <Value>61966</Value>
+    </record>
+    <record index="319">
+      <Date>1/6/2020</Date>
+      <Time>13:30:12</Time>
+      <Value>61932</Value>
+    </record>
+    <record index="320">
+      <Date>1/6/2020</Date>
+      <Time>12:30:14</Time>
+      <Value>61905</Value>
+    </record>
+    <record index="321">
+      <Date>1/6/2020</Date>
+      <Time>11:32:28</Time>
+      <Value>61863</Value>
+    </record>
+    <record index="322">
+      <Date>1/6/2020</Date>
+      <Time>11:30:16</Time>
+      <Value>61863</Value>
+    </record>
+    <record index="323">
+      <Date>1/6/2020</Date>
+      <Time>10:30:19</Time>
+      <Value>61852</Value>
+    </record>
+    <record index="324">
+      <Date>1/6/2020</Date>
+      <Time>9:30:21</Time>
+      <Value>61828</Value>
+    </record>
+    <record index="325">
+      <Date>1/6/2020</Date>
+      <Time>8:30:23</Time>
+      <Value>61802</Value>
+    </record>
+    <record index="326">
+      <Date>1/6/2020</Date>
+      <Time>7:30:25</Time>
+      <Value>61792</Value>
+    </record>
+    <record index="327">
+      <Date>1/6/2020</Date>
+      <Time>6:43:01</Time>
+      <Value>61774</Value>
+    </record>
+    <record index="328">
+      <Date>1/6/2020</Date>
+      <Time>5:32:41</Time>
+      <Value>61771</Value>
+    </record>
+    <record index="329">
+      <Date>1/6/2020</Date>
+      <Time>5:30:29</Time>
+      <Value>61771</Value>
+    </record>
+    <record index="330">
+      <Date>1/6/2020</Date>
+      <Time>4:30:32</Time>
+      <Value>61761</Value>
+    </record>
+    <record index="331">
+      <Date>1/6/2020</Date>
+      <Time>3:30:34</Time>
+      <Value>61749</Value>
+    </record>
+    <record index="332">
+      <Date>1/6/2020</Date>
+      <Time>2:30:36</Time>
+      <Value>61746</Value>
+    </record>
+    <record index="333">
+      <Date>1/6/2020</Date>
+      <Time>1:30:38</Time>
+      <Value>61741</Value>
+    </record>
+    <record index="334">
+      <Date>1/6/2020</Date>
+      <Time>0:30:40</Time>
+      <Value>61733</Value>
+    </record>
+    <record index="335">
+      <Date>1/5/2020</Date>
+      <Time>23:05:39</Time>
+      <Value>61730</Value>
+    </record>
+    <record index="336">
+      <Date>1/5/2020</Date>
+      <Time>22:07:53</Time>
+      <Value>61726</Value>
+    </record>
+    <record index="337">
+      <Date>1/5/2020</Date>
+      <Time>22:05:42</Time>
+      <Value>61726</Value>
+    </record>
+    <record index="338">
+      <Date>1/5/2020</Date>
+      <Time>21:05:44</Time>
+      <Value>61720</Value>
+    </record>
+    <record index="339">
+      <Date>1/5/2020</Date>
+      <Time>20:07:58</Time>
+      <Value>61702</Value>
+    </record>
+    <record index="340">
+      <Date>1/5/2020</Date>
+      <Time>20:05:46</Time>
+      <Value>61702</Value>
+    </record>
+    <record index="341">
+      <Date>1/5/2020</Date>
+      <Time>19:05:48</Time>
+      <Value>61695</Value>
+    </record>
+    <record index="342">
+      <Date>1/5/2020</Date>
+      <Time>18:05:50</Time>
+      <Value>61685</Value>
+    </record>
+    <record index="343">
+      <Date>1/5/2020</Date>
+      <Time>17:05:52</Time>
+      <Value>61678</Value>
+    </record>
+    <record index="344">
+      <Date>1/5/2020</Date>
+      <Time>16:05:55</Time>
+      <Value>61669</Value>
+    </record>
+    <record index="345">
+      <Date>1/5/2020</Date>
+      <Time>15:12:14</Time>
+      <Value>61658</Value>
+    </record>
+    <record index="346">
+      <Date>1/5/2020</Date>
+      <Time>14:08:11</Time>
+      <Value>61655</Value>
+    </record>
+    <record index="347">
+      <Date>1/5/2020</Date>
+      <Time>14:05:59</Time>
+      <Value>61655</Value>
+    </record>
+    <record index="348">
+      <Date>1/5/2020</Date>
+      <Time>13:06:01</Time>
+      <Value>61641</Value>
+    </record>
+    <record index="349">
+      <Date>1/5/2020</Date>
+      <Time>12:06:03</Time>
+      <Value>61616</Value>
+    </record>
+    <record index="350">
+      <Date>1/5/2020</Date>
+      <Time>11:06:05</Time>
+      <Value>61596</Value>
+    </record>
+    <record index="351">
+      <Date>1/5/2020</Date>
+      <Time>10:06:08</Time>
+      <Value>61582</Value>
+    </record>
+    <record index="352">
+      <Date>1/5/2020</Date>
+      <Time>8:45:04</Time>
+      <Value>61579</Value>
+    </record>
+    <record index="353">
+      <Date>1/5/2020</Date>
+      <Time>7:45:06</Time>
+      <Value>61545</Value>
+    </record>
+    <record index="354">
+      <Date>1/5/2020</Date>
+      <Time>6:45:08</Time>
+      <Value>61525</Value>
+    </record>
+    <record index="355">
+      <Date>1/5/2020</Date>
+      <Time>5:45:10</Time>
+      <Value>61514</Value>
+    </record>
+    <record index="356">
+      <Date>1/5/2020</Date>
+      <Time>4:45:12</Time>
+      <Value>61510</Value>
+    </record>
+    <record index="357">
+      <Date>1/5/2020</Date>
+      <Time>3:45:14</Time>
+      <Value>61492</Value>
+    </record>
+    <record index="358">
+      <Date>1/5/2020</Date>
+      <Time>2:45:16</Time>
+      <Value>61487</Value>
+    </record>
+    <record index="359">
+      <Date>1/5/2020</Date>
+      <Time>1:30:14</Time>
+      <Value>61484</Value>
+    </record>
+    <record index="360">
+      <Date>1/5/2020</Date>
+      <Time>1:28:02</Time>
+      <Value>61484</Value>
+    </record>
+    <record index="361">
+      <Date>1/5/2020</Date>
+      <Time>0:28:04</Time>
+      <Value>61468</Value>
+    </record>
+    <record index="362">
+      <Date>1/4/2020</Date>
+      <Time>22:48:38</Time>
+      <Value>61465</Value>
+    </record>
+    <record index="363">
+      <Date>1/4/2020</Date>
+      <Time>22:46:26</Time>
+      <Value>61465</Value>
+    </record>
+    <record index="364">
+      <Date>1/4/2020</Date>
+      <Time>21:48:40</Time>
+      <Value>61457</Value>
+    </record>
+    <record index="365">
+      <Date>1/4/2020</Date>
+      <Time>21:46:28</Time>
+      <Value>61457</Value>
+    </record>
+    <record index="366">
+      <Date>1/4/2020</Date>
+      <Time>20:54:43</Time>
+      <Value>61444</Value>
+    </record>
+    <record index="367">
+      <Date>1/4/2020</Date>
+      <Time>19:46:32</Time>
+      <Value>61441</Value>
+    </record>
+    <record index="368">
+      <Date>1/4/2020</Date>
+      <Time>18:48:46</Time>
+      <Value>61437</Value>
+    </record>
+    <record index="369">
+      <Date>1/4/2020</Date>
+      <Time>18:46:34</Time>
+      <Value>61437</Value>
+    </record>
+    <record index="370">
+      <Date>1/4/2020</Date>
+      <Time>17:48:48</Time>
+      <Value>61414</Value>
+    </record>
+    <record index="371">
+      <Date>1/4/2020</Date>
+      <Time>17:46:37</Time>
+      <Value>61414</Value>
+    </record>
+    <record index="372">
+      <Date>1/4/2020</Date>
+      <Time>16:46:39</Time>
+      <Value>61393</Value>
+    </record>
+    <record index="373">
+      <Date>1/4/2020</Date>
+      <Time>15:48:53</Time>
+      <Value>61385</Value>
+    </record>
+    <record index="374">
+      <Date>1/4/2020</Date>
+      <Time>15:46:41</Time>
+      <Value>61385</Value>
+    </record>
+    <record index="375">
+      <Date>1/4/2020</Date>
+      <Time>14:48:55</Time>
+      <Value>61371</Value>
+    </record>
+    <record index="376">
+      <Date>1/4/2020</Date>
+      <Time>14:46:43</Time>
+      <Value>61371</Value>
+    </record>
+    <record index="377">
+      <Date>1/4/2020</Date>
+      <Time>13:48:57</Time>
+      <Value>61362</Value>
+    </record>
+    <record index="378">
+      <Date>1/4/2020</Date>
+      <Time>13:46:45</Time>
+      <Value>61362</Value>
+    </record>
+    <record index="379">
+      <Date>1/4/2020</Date>
+      <Time>12:48:59</Time>
+      <Value>61344</Value>
+    </record>
+    <record index="380">
+      <Date>1/4/2020</Date>
+      <Time>12:46:48</Time>
+      <Value>61344</Value>
+    </record>
+    <record index="381">
+      <Date>1/4/2020</Date>
+      <Time>11:49:02</Time>
+      <Value>61337</Value>
+    </record>
+    <record index="382">
+      <Date>1/4/2020</Date>
+      <Time>11:46:50</Time>
+      <Value>61337</Value>
+    </record>
+    <record index="383">
+      <Date>1/4/2020</Date>
+      <Time>10:49:04</Time>
+      <Value>61321</Value>
+    </record>
+    <record index="384">
+      <Date>1/4/2020</Date>
+      <Time>10:46:52</Time>
+      <Value>61321</Value>
+    </record>
+    <record index="385">
+      <Date>1/4/2020</Date>
+      <Time>9:50:14</Time>
+      <Value>61306</Value>
+    </record>
+    <record index="386">
+      <Date>1/4/2020</Date>
+      <Time>8:46:56</Time>
+      <Value>61303</Value>
+    </record>
+    <record index="387">
+      <Date>1/4/2020</Date>
+      <Time>7:49:10</Time>
+      <Value>61298</Value>
+    </record>
+    <record index="388">
+      <Date>1/4/2020</Date>
+      <Time>7:46:59</Time>
+      <Value>61298</Value>
+    </record>
+    <record index="389">
+      <Date>1/4/2020</Date>
+      <Time>6:47:01</Time>
+      <Value>61271</Value>
+    </record>
+    <record index="390">
+      <Date>1/4/2020</Date>
+      <Time>5:00:41</Time>
+      <Value>61268</Value>
+    </record>
+    <record index="391">
+      <Date>1/4/2020</Date>
+      <Time>4:58:29</Time>
+      <Value>61268</Value>
+    </record>
+    <record index="392">
+      <Date>1/4/2020</Date>
+      <Time>3:58:31</Time>
+      <Value>61258</Value>
+    </record>
+    <record index="393">
+      <Date>1/3/2020</Date>
+      <Time>22:42:51</Time>
+      <Value>61255</Value>
+    </record>
+    <record index="394">
+      <Date>1/3/2020</Date>
+      <Time>22:40:40</Time>
+      <Value>61255</Value>
+    </record>
+    <record index="395">
+      <Date>1/3/2020</Date>
+      <Time>21:40:42</Time>
+      <Value>61232</Value>
+    </record>
+    <record index="396">
+      <Date>1/3/2020</Date>
+      <Time>20:42:56</Time>
+      <Value>61227</Value>
+    </record>
+    <record index="397">
+      <Date>1/3/2020</Date>
+      <Time>19:40:46</Time>
+      <Value>61175</Value>
+    </record>
+    <record index="398">
+      <Date>1/3/2020</Date>
+      <Time>18:45:15</Time>
+      <Value>61169</Value>
+    </record>
+    <record index="399">
+      <Date>1/3/2020</Date>
+      <Time>17:40:51</Time>
+      <Value>61166</Value>
+    </record>
+    <record index="400">
+      <Date>1/3/2020</Date>
+      <Time>16:43:05</Time>
+      <Value>61153</Value>
+    </record>
+    <record index="401">
+      <Date>1/3/2020</Date>
+      <Time>16:40:53</Time>
+      <Value>61153</Value>
+    </record>
+    <record index="402">
+      <Date>1/3/2020</Date>
+      <Time>15:43:07</Time>
+      <Value>61128</Value>
+    </record>
+    <record index="403">
+      <Date>1/3/2020</Date>
+      <Time>15:40:55</Time>
+      <Value>61128</Value>
+    </record>
+    <record index="404">
+      <Date>1/3/2020</Date>
+      <Time>14:40:57</Time>
+      <Value>61100</Value>
+    </record>
+    <record index="405">
+      <Date>1/3/2020</Date>
+      <Time>13:40:59</Time>
+      <Value>61043</Value>
+    </record>
+    <record index="406">
+      <Date>1/3/2020</Date>
+      <Time>12:43:14</Time>
+      <Value>61032</Value>
+    </record>
+    <record index="407">
+      <Date>1/3/2020</Date>
+      <Time>12:41:02</Time>
+      <Value>61032</Value>
+    </record>
+    <record index="408">
+      <Date>1/3/2020</Date>
+      <Time>11:43:15</Time>
+      <Value>61011</Value>
+    </record>
+    <record index="409">
+      <Date>1/3/2020</Date>
+      <Time>11:41:04</Time>
+      <Value>61011</Value>
+    </record>
+    <record index="410">
+      <Date>1/3/2020</Date>
+      <Time>10:41:06</Time>
+      <Value>60994</Value>
+    </record>
+    <record index="411">
+      <Date>1/3/2020</Date>
+      <Time>9:41:08</Time>
+      <Value>60970</Value>
+    </record>
+    <record index="412">
+      <Date>1/3/2020</Date>
+      <Time>8:41:10</Time>
+      <Value>60949</Value>
+    </record>
+    <record index="413">
+      <Date>1/3/2020</Date>
+      <Time>7:43:24</Time>
+      <Value>60945</Value>
+    </record>
+    <record index="414">
+      <Date>1/3/2020</Date>
+      <Time>7:41:13</Time>
+      <Value>60945</Value>
+    </record>
+    <record index="415">
+      <Date>1/3/2020</Date>
+      <Time>6:41:15</Time>
+      <Value>60925</Value>
+    </record>
+    <record index="416">
+      <Date>1/3/2020</Date>
+      <Time>5:43:29</Time>
+      <Value>60915</Value>
+    </record>
+    <record index="417">
+      <Date>1/3/2020</Date>
+      <Time>5:41:17</Time>
+      <Value>60915</Value>
+    </record>
+    <record index="418">
+      <Date>1/3/2020</Date>
+      <Time>4:41:19</Time>
+      <Value>60909</Value>
+    </record>
+    <record index="419">
+      <Date>1/3/2020</Date>
+      <Time>3:41:21</Time>
+      <Value>60895</Value>
+    </record>
+    <record index="420">
+      <Date>1/3/2020</Date>
+      <Time>2:43:35</Time>
+      <Value>60881</Value>
+    </record>
+    <record index="421">
+      <Date>1/3/2020</Date>
+      <Time>1:08:31</Time>
+      <Value>60878</Value>
+    </record>
+    <record index="422">
+      <Date>1/3/2020</Date>
+      <Time>0:08:33</Time>
+      <Value>60866</Value>
+    </record>
+    <record index="423">
+      <Date>1/2/2020</Date>
+      <Time>23:08:35</Time>
+      <Value>60853</Value>
+    </record>
+    <record index="424">
+      <Date>1/2/2020</Date>
+      <Time>21:44:42</Time>
+      <Value>60850</Value>
+    </record>
+    <record index="425">
+      <Date>1/2/2020</Date>
+      <Time>21:42:31</Time>
+      <Value>60850</Value>
+    </record>
+    <record index="426">
+      <Date>1/2/2020</Date>
+      <Time>20:44:45</Time>
+      <Value>60843</Value>
+    </record>
+    <record index="427">
+      <Date>1/2/2020</Date>
+      <Time>20:42:33</Time>
+      <Value>60843</Value>
+    </record>
+    <record index="428">
+      <Date>1/2/2020</Date>
+      <Time>19:44:47</Time>
+      <Value>60828</Value>
+    </record>
+    <record index="429">
+      <Date>1/2/2020</Date>
+      <Time>19:42:35</Time>
+      <Value>60828</Value>
+    </record>
+    <record index="430">
+      <Date>1/2/2020</Date>
+      <Time>18:45:50</Time>
+      <Value>60813</Value>
+    </record>
+    <record index="431">
+      <Date>1/2/2020</Date>
+      <Time>18:43:38</Time>
+      <Value>60813</Value>
+    </record>
+    <record index="432">
+      <Date>1/2/2020</Date>
+      <Time>17:42:39</Time>
+      <Value>60810</Value>
+    </record>
+    <record index="433">
+      <Date>1/2/2020</Date>
+      <Time>16:42:41</Time>
+      <Value>60754</Value>
+    </record>
+    <record index="434">
+      <Date>1/2/2020</Date>
+      <Time>15:44:55</Time>
+      <Value>60734</Value>
+    </record>
+    <record index="435">
+      <Date>1/2/2020</Date>
+      <Time>15:42:44</Time>
+      <Value>60734</Value>
+    </record>
+    <record index="436">
+      <Date>1/2/2020</Date>
+      <Time>14:44:58</Time>
+      <Value>60696</Value>
+    </record>
+    <record index="437">
+      <Date>1/2/2020</Date>
+      <Time>14:42:46</Time>
+      <Value>60696</Value>
+    </record>
+    <record index="438">
+      <Date>1/2/2020</Date>
+      <Time>13:45:00</Time>
+      <Value>60684</Value>
+    </record>
+    <record index="439">
+      <Date>1/2/2020</Date>
+      <Time>13:42:48</Time>
+      <Value>60684</Value>
+    </record>
+    <record index="440">
+      <Date>1/2/2020</Date>
+      <Time>12:45:02</Time>
+      <Value>60662</Value>
+    </record>
+    <record index="441">
+      <Date>1/2/2020</Date>
+      <Time>12:42:50</Time>
+      <Value>60662</Value>
+    </record>
+    <record index="442">
+      <Date>1/2/2020</Date>
+      <Time>11:45:04</Time>
+      <Value>60636</Value>
+    </record>
+    <record index="443">
+      <Date>1/2/2020</Date>
+      <Time>10:45:07</Time>
+      <Value>60618</Value>
+    </record>
+    <record index="444">
+      <Date>1/2/2020</Date>
+      <Time>10:42:55</Time>
+      <Value>60618</Value>
+    </record>
+    <record index="445">
+      <Date>1/2/2020</Date>
+      <Time>9:42:57</Time>
+      <Value>60551</Value>
+    </record>
+    <record index="446">
+      <Date>1/2/2020</Date>
+      <Time>8:42:59</Time>
+      <Value>60499</Value>
+    </record>
+    <record index="447">
+      <Date>1/2/2020</Date>
+      <Time>7:43:01</Time>
+      <Value>60448</Value>
+    </record>
+    <record index="448">
+      <Date>1/2/2020</Date>
+      <Time>6:43:03</Time>
+      <Value>60396</Value>
+    </record>
+    <record index="449">
+      <Date>1/2/2020</Date>
+      <Time>5:43:06</Time>
+      <Value>60367</Value>
+    </record>
+    <record index="450">
+      <Date>1/2/2020</Date>
+      <Time>4:43:08</Time>
+      <Value>60328</Value>
+    </record>
+    <record index="451">
+      <Date>1/2/2020</Date>
+      <Time>3:43:10</Time>
+      <Value>60288</Value>
+    </record>
+    <record index="452">
+      <Date>1/2/2020</Date>
+      <Time>2:45:24</Time>
+      <Value>60257</Value>
+    </record>
+    <record index="453">
+      <Date>1/2/2020</Date>
+      <Time>2:43:12</Time>
+      <Value>60257</Value>
+    </record>
+    <record index="454">
+      <Date>1/2/2020</Date>
+      <Time>1:43:14</Time>
+      <Value>60233</Value>
+    </record>
+    <record index="455">
+      <Date>1/2/2020</Date>
+      <Time>0:43:16</Time>
+      <Value>60204</Value>
+    </record>
+    <record index="456">
+      <Date>1/1/2020</Date>
+      <Time>23:43:19</Time>
+      <Value>60171</Value>
+    </record>
+    <record index="457">
+      <Date>1/1/2020</Date>
+      <Time>22:43:21</Time>
+      <Value>60138</Value>
+    </record>
+    <record index="458">
+      <Date>1/1/2020</Date>
+      <Time>21:43:23</Time>
+      <Value>60102</Value>
+    </record>
+    <record index="459">
+      <Date>1/1/2020</Date>
+      <Time>20:45:37</Time>
+      <Value>60076</Value>
+    </record>
+    <record index="460">
+      <Date>1/1/2020</Date>
+      <Time>20:43:25</Time>
+      <Value>60076</Value>
+    </record>
+    <record index="461">
+      <Date>1/1/2020</Date>
+      <Time>19:45:39</Time>
+      <Value>60033</Value>
+    </record>
+    <record index="462">
+      <Date>1/1/2020</Date>
+      <Time>19:43:27</Time>
+      <Value>60033</Value>
+    </record>
+    <record index="463">
+      <Date>1/1/2020</Date>
+      <Time>18:43:30</Time>
+      <Value>60001</Value>
+    </record>
+    <record index="464">
+      <Date>1/1/2020</Date>
+      <Time>17:43:32</Time>
+      <Value>59961</Value>
+    </record>
+    <record index="465">
+      <Date>1/1/2020</Date>
+      <Time>16:45:46</Time>
+      <Value>59932</Value>
+    </record>
+    <record index="466">
+      <Date>1/1/2020</Date>
+      <Time>16:43:34</Time>
+      <Value>59932</Value>
+    </record>
+    <record index="467">
+      <Date>1/1/2020</Date>
+      <Time>15:43:36</Time>
+      <Value>59876</Value>
+    </record>
+    <record index="468">
+      <Date>1/1/2020</Date>
+      <Time>14:48:02</Time>
+      <Value>59853</Value>
+    </record>
+    <record index="469">
+      <Date>1/1/2020</Date>
+      <Time>14:45:50</Time>
+      <Value>59853</Value>
+    </record>
+    <record index="470">
+      <Date>1/1/2020</Date>
+      <Time>14:43:38</Time>
+      <Value>59853</Value>
+    </record>
+    <record index="471">
+      <Date>1/1/2020</Date>
+      <Time>13:43:41</Time>
+      <Value>59823</Value>
+    </record>
+    <record index="472">
+      <Date>1/1/2020</Date>
+      <Time>12:43:43</Time>
+      <Value>59789</Value>
+    </record>
+    <record index="473">
+      <Date>1/1/2020</Date>
+      <Time>11:43:45</Time>
+      <Value>59747</Value>
+    </record>
+    <record index="474">
+      <Date>1/1/2020</Date>
+      <Time>10:43:47</Time>
+      <Value>59708</Value>
+    </record>
+    <record index="475">
+      <Date>1/1/2020</Date>
+      <Time>9:43:49</Time>
+      <Value>59674</Value>
+    </record>
+    <record index="476">
+      <Date>1/1/2020</Date>
+      <Time>8:43:51</Time>
+      <Value>59644</Value>
+    </record>
+    <record index="477">
+      <Date>1/1/2020</Date>
+      <Time>7:43:54</Time>
+      <Value>59598</Value>
+    </record>
+    <record index="478">
+      <Date>1/1/2020</Date>
+      <Time>6:43:56</Time>
+      <Value>59568</Value>
+    </record>
+    <record index="479">
+      <Date>1/1/2020</Date>
+      <Time>5:43:58</Time>
+      <Value>59527</Value>
+    </record>
+    <record index="480">
+      <Date>1/1/2020</Date>
+      <Time>4:44:00</Time>
+      <Value>59511</Value>
+    </record>
+    <record index="481">
+      <Date>1/1/2020</Date>
+      <Time>3:44:02</Time>
+      <Value>59471</Value>
+    </record>
+    <record index="482">
+      <Date>1/1/2020</Date>
+      <Time>2:44:04</Time>
+      <Value>59430</Value>
+    </record>
+    <record index="483">
+      <Date>1/1/2020</Date>
+      <Time>1:44:07</Time>
+      <Value>59392</Value>
+    </record>
+    <record index="484">
+      <Date>1/1/2020</Date>
+      <Time>0:44:09</Time>
+      <Value>59356</Value>
+    </record>
+  </records>
+</data>

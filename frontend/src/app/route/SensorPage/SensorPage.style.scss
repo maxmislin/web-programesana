@@ -1,0 +1,26 @@
+.SensorPage {
+    max-width: 1024px;
+    margin: 20px auto;
+
+    &-SensorList {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 16px;
+    }
+
+    &-SensorContainer {
+        padding: 8px;
+        color: black;
+
+        &:hover {
+            text-decoration: none;
+            color: black;
+            background-color: #F4F4F4;
+        }
+    }
+
+    &-SensorName {
+        font-size: 16px;
+        font-weight: 700;
+    }
+}

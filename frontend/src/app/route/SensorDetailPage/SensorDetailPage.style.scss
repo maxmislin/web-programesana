@@ -1,0 +1,67 @@
+.SensorDetailPage {
+    max-width: 1024px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    &-Inputs {
+        text-align: left;
+        margin-bottom: 40px;
+    }
+
+    input {
+        min-height: 44px;
+        border-radius: 4px;
+        border: 1px solid #a4a4a4;
+        padding: 4px;
+    }
+
+    input[type=checkbox],
+    input[type=radio] {
+        margin-right: 10px;
+        min-height: 20px;
+    }
+
+    &-InputContainer {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    &-InputLabel {
+        white-space: nowrap;
+        margin: 0 10px 0 0;
+    }
+
+    &-RowData {
+        display: flex;
+        align-items: center;
+
+        .SensorDetailPage {
+            &-InputContainer {
+                margin: 0;
+            }
+
+            &-InputLabel {
+                white-space: nowrap;
+                margin: 0 20px 0 0;
+            }
+        }
+    }
+
+    &-Notification {
+        &Row {
+            width: 100%;
+            display: grid;
+            grid-template-columns: 20% 80%;
+            padding: 10px;
+            border-bottom: 1px solid;
+        }
+
+        &List {
+            width: 100%;
+        }
+    }
+}
